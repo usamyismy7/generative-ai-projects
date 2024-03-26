@@ -1,8 +1,8 @@
-# FastAPI App with PostgresSQL and SQLModel
+# Todo list FastAPI App with PostgresSQL and SQLModel
 
 ## Details
 
-Deploy a Serverless FastAPI App with Neon PostgresSQL
+A CRUD Todo list Serverless FastAPI App with Neon PostgresSQL
 
 ### Reference
 
@@ -13,11 +13,7 @@ learn-generative-ai/05_microservices_all_in_one_platform
 
 #### Dependencies
 
-python, fastapi, uvicorn, sqlmodel, psycopg
-
-#### Dev dependencies
-
-pytest
+python, fastapi, uvicorn, sqlmodel, psycopg2, pytest, httpx
 
 ## Getting Started
 
@@ -36,7 +32,7 @@ poetry install
 #### Run project in Poetry Environment
 
 ```bash
-poetry run uvicorn fastapi_neon.main:app --host 0.0.0.0 --port 8000
+poetry run uvicorn todo_list.main:app --reload
 ```
 
 Open in Browser [http://localhost:8000](http://localhost:8000).
@@ -55,12 +51,28 @@ Open in Browser [https://mammoth-touched-halibut.ngrok-free.app](https://mammoth
 
 Open Docs in Browser [https://mammoth-touched-halibut.ngrok-free.app/docs](https://mammoth-touched-halibut.ngrok-free.app/docs).
 
-![alt text](./assets/image3.png)
-
 Open OpenAPI specs in Browser [https://mammoth-touched-halibut.ngrok-free.app/openapi.json](https://mammoth-touched-halibut.ngrok-free.app/openapi.json)
 
-![alt text](./assets/image2.png)
+### Run tests
 
-#### NeonDB
+```bash
+poetry run pytest
+```
 
-![alt text](./assets/image.png)
+## Screenshots
+
+![image 1](./assets/image-3.png)
+
+![image 2](./assets/image-2.png)
+
+![image 3](./assets/image-1.png)
+
+![image 4](./assets/image.png)
+
+![image 5](./assets/image3.png)
+
+![image 6](./assets/image4.png)
+
+![image 7](./assets/image2.png)
+
+![image 8](./assets/image5.png)

@@ -1,0 +1,28 @@
+# Use a minimal Python runtime as a parent image
+FROM python:3.11.8-slim
+
+# Set the working directory in the container to /app
+WORKDIR /fastapi_rag
+
+# Copy just the dependency file to leverage Docker cache
+COPY pyproject.toml poetry.lock /fastapi_rag/
+
+# Install Poetry
+RUN pip install poetry
+
+# Install project dependencies
+RUN poetry install --no-root --no-dev
+
+# Add the current directory contents into the container at /fastapi_rag
+COPY . /fastapi_rag
+
+# Set environment variables
+ENV \
+    OPENAI_API_KEY="key"\
+    MONGODBATLAS_CONNECTIONSTRING="connection"
+
+# Expose port 8000
+EXPOSE 8000
+
+# Run the application when the container launches
+CMD ["poetry", "run", "uvicorn", "fastapi_rag.main:app", "--host", "0.0.0.0", "--port", "8000"]
