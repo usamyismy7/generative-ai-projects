@@ -56,18 +56,18 @@ poetry run pytest
 
 ## Screenshots
 
-![image 1](./assets/image-3.png)
+![image 1](https://raw.githubusercontent.com/usamyismy7/generative-ai-projects/master/project-2_todo-list-full-stack-nextjs-fastapi/server/assets/image-3.png)
 
-![image 2](./assets/image-2.png)
+![image 2](https://raw.githubusercontent.com/usamyismy7/generative-ai-projects/master/project-2_todo-list-full-stack-nextjs-fastapi/server/assets/image-2.png)
 
-![image 3](./assets/image-1.png)
+![image 3](https://raw.githubusercontent.com/usamyismy7/generative-ai-projects/master/project-2_todo-list-full-stack-nextjs-fastapi/server/assets/image-1.png)
 
-![image 4](./assets/image.png)
+![image 4](https://raw.githubusercontent.com/usamyismy7/generative-ai-projects/master/project-2_todo-list-full-stack-nextjs-fastapi/server/assets/image.png)
 
-![image 5](./assets/image3.png)
+![image 5](https://raw.githubusercontent.com/usamyismy7/generative-ai-projects/master/project-2_todo-list-full-stack-nextjs-fastapi/server/assets/image3.png)
 
-![image 6](./assets/image4.png)
+![image 6](https://raw.githubusercontent.com/usamyismy7/generative-ai-projects/master/project-2_todo-list-full-stack-nextjs-fastapi/server/assets/image4.png)
 
-![image 7](./assets/image2.png)
+![image 7](https://raw.githubusercontent.com/usamyismy7/generative-ai-projects/master/project-2_todo-list-full-stack-nextjs-fastapi/server/assets/image2.png)
 
-![image 8](./assets/image5.png)
+![image 8](https://raw.githubusercontent.com/usamyismy7/generative-ai-projects/master/project-2_todo-list-full-stack-nextjs-fastapi/server/assets/image5.png)
