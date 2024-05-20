@@ -5,6 +5,16 @@ import os
 from dotenv import load_dotenv
 from fastapi.middleware.cors import CORSMiddleware
 
+# Step-1: Create Database on Neon
+# Step-2: Create .env file for environment variables
+# Step-3: Create setting.py file for encrypting DatabaseURL
+# Step-4: Create a Model
+# Step-5: Create Engine
+# Step-6: Create function for table creation
+# Step-7: Create function for session management
+# Step-8: Create contex manager for app lifespan
+# Step-9: Create all endpoints of todo app
+
 load_dotenv()
 
 class Todo(SQLModel, table=True):
