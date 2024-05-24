@@ -59,8 +59,14 @@ python consumer.py
 
 ## Screenshots
 
+### Docker Desktop
+
 ![docker desktop](./assets/image-1.png)
 
+### Kafka using terminal commands
+
 ![producer-consumer in docker terminal](./assets/image.png)
+
+### Kafka using python scripts
 
 ![running python files in terminal](./assets/image-2.png)
