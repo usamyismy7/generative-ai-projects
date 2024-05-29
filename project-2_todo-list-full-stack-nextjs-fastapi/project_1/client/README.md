@@ -40,8 +40,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Screenshots
 
-![application interface](https://raw.githubusercontent.com/usamyismy7/generative-ai-projects/master/project-2_todo-list-full-stack-nextjs-fastapi/client/assets/image.png)
+![application interface](https://raw.githubusercontent.com/usamyismy7/generative-ai-projects/master/project-2_todo-list-full-stack-nextjs-fastapi/project_1/client/assets/image.png)
 
-![database](https://raw.githubusercontent.com/usamyismy7/generative-ai-projects/master/project-2_todo-list-full-stack-nextjs-fastapi/client/assets/image2.png)
+![database](https://raw.githubusercontent.com/usamyismy7/generative-ai-projects/master/project-2_todo-list-full-stack-nextjs-fastapi/project_1/client/assets/image2.png)
 
-![video](https://raw.githubusercontent.com/usamyismy7/generative-ai-projects/master/project-2_todo-list-full-stack-nextjs-fastapi/client/assets/video.gif)
+![video](https://raw.githubusercontent.com/usamyismy7/generative-ai-projects/master/project-2_todo-list-full-stack-nextjs-fastapi/project_1/client/assets/video.gif)
