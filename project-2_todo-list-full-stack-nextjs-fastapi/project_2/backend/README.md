@@ -44,8 +44,8 @@ poetry run pytest
 
 ## Screenshots
 
-![image 1](https://raw.githubusercontent.com/usamyismy7/generative-ai-projects/master/project-2_todo-list-full-stack-nextjs-fastapi/project_2/server/assets/image.png)
+![image 1](https://raw.githubusercontent.com/usamyismy7/generative-ai-projects/master/project-2_todo-list-full-stack-nextjs-fastapi/project_2/backend/assets/image.png)
 
-![image 2](https://raw.githubusercontent.com/usamyismy7/generative-ai-projects/master/project-2_todo-list-full-stack-nextjs-fastapi/project_2/server/assets/image-2.png)
+![image 2](https://raw.githubusercontent.com/usamyismy7/generative-ai-projects/master/project-2_todo-list-full-stack-nextjs-fastapi/project_2/backend/assets/image-2.png)
 
-![image 3](https://raw.githubusercontent.com/usamyismy7/generative-ai-projects/master/project-2_todo-list-full-stack-nextjs-fastapi/project_2/server/assets/image-1.png)
+![image 3](https://raw.githubusercontent.com/usamyismy7/generative-ai-projects/master/project-2_todo-list-full-stack-nextjs-fastapi/project_2/backend/assets/image-1.png)
